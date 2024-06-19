@@ -1,0 +1,5 @@
+# we need a GUI interface with tk inter
+
+# to create task saving logic (just save whall task in txt file )
+
+
